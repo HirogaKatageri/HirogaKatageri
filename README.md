@@ -6,7 +6,7 @@
 
 - 💍 I met and married my wife in 2019.
 - 👧 We had our first child in 2020.
-- 👦 We're having our second child in 2022.
+- 👧 We had our second child in 2022.
 - 😎 My focus is mostly on Mobile Applications, Backend and AI.
 
 ### Languages and Tools 🧰
