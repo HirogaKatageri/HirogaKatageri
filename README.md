@@ -7,7 +7,10 @@
 - 💍 I met and married my wife in 2019.
 - 👧 We had our first child in 2020.
 - 👧 We had our second child in 2022.
-- 😎 My focus is mostly on Mobile Applications, Backend and AI.
+- 🏢 I'm currently working in Edamama.
+- 🤝 Currently a Software Engineering Manager (I still code a lot though, weekends included).
+- 😎 I specialize in building application.
+- 💦 Currently working on an open source project named katageri-ai (pronounced "category I") or kai.
 
 ### Languages and Tools 🧰
 
