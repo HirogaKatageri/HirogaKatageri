@@ -8,9 +8,7 @@
 - 👧 We had our first child in 2020.
 - 👧 We had our second child in 2022.
 - 🏢 I'm currently working in Edamama.
-- 🤝 Currently a Software Engineering Manager (I still code a lot though, weekends included).
-- 😎 I specialize in building application.
-- 💦 Currently working on an open source project named katageri-ai (pronounced "category I") or kai.
+- 🤝 Currently Head of Engineering (I delegate a lot of my code nowadays to AI, while I plan and architect).
 
 ### Languages and Tools 🧰
 
